@@ -1,2 +1,4 @@
 # hello-world
-Try repository
+Try repository:
+
+Testing out make and commit changes.
